@@ -1,4 +1,3 @@
-; $Id$
 name = EMail
 description = Defines an email field type for cck
 package = CCK
